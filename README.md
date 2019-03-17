@@ -6,13 +6,13 @@ A list of music festivals across India with place, genre and tentative dates
 | Name  | Place  | Date  |  Links |  Genre| Comments |
 |---|---|---|---|---|---|
 | Magnetic Fields | Alsisar Mahal, Rajasthan | December  |  http://magneticfields.in/, https://www.facebook.com/magneticfieldsfestival/ |  |  |
-| Locals District Music Festival |  Castle Kalwar, Rajasthan |  March |   | https://localsdistrict.com/  |   |
-| Ziro Festival of Music | Ziro  |  September |   | https://zirofestival.com/  |   |
-| Zero Gravity | Ziro  |  September |   | https://zirofestival.com/  |   |
-| Ragasthan | Desert Glamping, Jaisalmer  |   |   | https://www.ragasthan.com/  |   |
+| Locals District Music Festival |  Castle Kalwar, Rajasthan |  March | https://localsdistrict.com/   |  |   |
+| Ziro Festival of Music | Ziro  |  September |  https://zirofestival.com/ |   |   |
+| Zero Gravity | Ziro  |  September | https://www.facebook.com/zerogravityfestival/  |   |   |
+| Ragasthan | Desert Glamping, Jaisalmer  |   | https://www.ragasthan.com/   |  |   |
 | Storm Festival |   |   |   |   |   |
-| Timeout |  Mumbai, Maharashtra |  december |  http://timeoutofficial.com/ |   |   |
-| Hornbill |  Kohima, Nagaland | december  |  https://hornbillfestival.co.in/ |   |   |
+| Timeout |  Mumbai, Maharashtra |  December |  http://timeoutofficial.com/ |   |   |
+| Hornbill |  Kohima, Nagaland | December  |  https://hornbillfestival.co.in/ |   |   |
 | Sula Fest |  Nasik, Maharashtra |  feb |  https://www.sulafest.com/ |   |   |
 | Escape | Naukuchiatal, Uttarakhand  |  may | http://escapefestival.in/  |   |   |
 | Jodhpur Riff |  Mehrangarh Fort, Jodhpu |  10 - 14 October 2019 | https://www.jodhpurriff.org/ |    |   |
@@ -39,7 +39,7 @@ A list of music festivals across India with place, genre and tentative dates
 | ruhaniyat |   |   | http://ruhaniyat.com/  |   |   |
 | bhoomi jathre |   |   |   |   |   |
 | monte music festival |   |   |   |   |   |
-| Bangalore Metal Open Air | Bangalore  |   |   |   |   |
+| Bangalore Metal Open Air | Bangalore  |   |   |  Metal |   |
 | Weekender |   |   |   |   |   |
 |   |   |   |   |   |   |
 
