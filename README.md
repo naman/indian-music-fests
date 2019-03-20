@@ -1,16 +1,15 @@
 # indian-music-fests
-A list of music festivals across India with place, genre and tentative dates
+A list of music festivals across India with location, genre and tentative dates. A mirrored wiki page has been created here: 
 
 
-
-| Name  | Place  | Date  |  Links |  Genre| Comments |
+| Name  | Location  | Tentative Date  |  Links |  Genre | Comments |
 |---|---|---|---|---|---|
 | Magnetic Fields | Alsisar Mahal, Rajasthan | December  |  http://magneticfields.in/, https://www.facebook.com/magneticfieldsfestival/ |  |  |
 | Locals District Music Festival |  Castle Kalwar, Rajasthan |  March | https://localsdistrict.com/   |  |   |
 | Ziro Festival of Music | Ziro  |  September |  https://zirofestival.com/ |   |   |
-| Zero Gravity | Ziro  |  September | https://www.facebook.com/zerogravityfestival/  |   |   |
+| Control ALT Delete | Malad, Mumbai, Maharashtra |  March |  http://www.controlaltdelete.in/ |   |   |
+| Zero Gravity | -  |  September | https://www.facebook.com/zerogravityfestival/  |   |   |
 | Ragasthan | Desert Glamping, Jaisalmer  |   | https://www.ragasthan.com/   |  |   |
-| Storm Festival |   |   |   |   |   |
 | Timeout |  Mumbai, Maharashtra |  December |  http://timeoutofficial.com/ |   |   |
 | Hornbill |  Kohima, Nagaland | December  |  https://hornbillfestival.co.in/ |   |   |
 | Sula Fest |  Nasik, Maharashtra |  feb |  https://www.sulafest.com/ |   |   |
@@ -31,22 +30,22 @@ A list of music festivals across India with place, genre and tentative dates
 | Orange Festival of Adventure and Music |   |   |   |   |   |
 | Storm Festival | Coorg |   |   |   |   |
 | Echoes of Earth |  Bangalore |   |   |   |   |
-| Disrupt Festival |   |  April |   |   |   |
-| Covelong Point Surf, Music and Yoga Festival | Chennai  |   |   |   |   |
-| Nariyal Paani Festival |   |   |   |   |   |
-| SOI - Symphony Orchestra of India- 10th Anniversary Party Concert |   |   |   |   |   |
-| freedom jam |   |   | http://freedomjam.in/  |   |
-| ruhaniyat |   |   | http://ruhaniyat.com/  |   |   |
-| bhoomi jathre |   |   |   |   |   |
-| monte music festival |   |   |   |   |   |
-| Bangalore Metal Open Air | Bangalore  |   |   |  Metal |   |
-| Weekender |   |   |   |   |   |
+| Disrupt Festival |   | April |   |   |   |
+| Covelong Point Surf, Music and Yoga Festival | Chennai  |   | www.covelongpoint.com/2018/  |   |   |
+| Nariyal Paani Festival |   |   | http://www.nariyal-paani.com/  |   |   |
+| freedom jam |  Pondicherry  | January  | http://freedomjam.in/  |   |
+| ruhaniyat | Mumbai, Kolkatta, Delhi, Bengaluru, Hyderabad, Chennai, Ahmedabad, Pune |  Nov - Feb | http://ruhaniyat.com/  |   |   |
+| monte music festival | Goa  |   | https://serenademagazine.com/news/monte-music-festival-2019/  |   |   |
+| Bangalore Open Air | Bangalore  |   |  https://www.bangaloreopenair.com/ |  Metal |   |
+| Weekender |   |   |  https://insider.in/nh7-weekender/ |   |   |
+| Storm Festival |   |   |   |   |   |
+
 |   |   |   |   |   |   |
 
 
 College Music Fests
 
-| Name  | Place  | Genre  |  Date | Links | Comments |
+| Name  | Location  | Tentative Date  |  Links |  Genre | Comments |
 |---|---|---|---|---|---|
 | Mood Indigo  | Mumbai  |   |  December |   |   |
 
